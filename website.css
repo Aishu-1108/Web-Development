@@ -1,0 +1,42 @@
+h1 {
+    background-color: red;
+    color: white;
+}
+
+#searchId {
+    width: 40vh;
+    height: 40vh;
+    position: relative;
+    margin-top: 50vh;
+    margin-right: 20vh;
+}
+
+.div1 {
+    /* padding-bottom: 50px; */
+    border: 2px solid black;
+}
+
+.video1 {
+    margin-right: 50vh;
+    margin-top: -80px;
+}
+
+.ved2 {
+    margin-right: 50vh;
+}
+
+/* .search-box {
+    margin-left: 150px;
+    width: 400px;
+    height: 20px;
+    border-radius: 10px;
+    float: unset;
+    position: relative;
+
+} */
+
+
+.search-box {
+    margin-left: 43vh;
+    margin-top: -22vh;
+}
